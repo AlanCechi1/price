@@ -1,0 +1,14 @@
+.superior div{
+    padding-inline: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.superior section p:nth-of-type(1){
+    align-items: 0,015625rem;
+    font-weight: 700;
+    color: var(--Bright-Yellow);
+    margin-bottom: 1rem;
+}
